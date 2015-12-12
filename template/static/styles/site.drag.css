@@ -7262,3 +7262,8 @@ code {
   line-height: 15px;
   padding: 9.5px 4px !important;
 }
+
+td.name code {
+    color: #06F;
+    background-color: transparent;
+}
